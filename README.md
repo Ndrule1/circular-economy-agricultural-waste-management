@@ -161,15 +161,17 @@ This project demonstrates how data analytics and visualization can support evide
 ## Team
 
 **Capstone Project Team**
-
-(Add the names of all team members here.)
-
-Example:
-
-- Gloria Ndiana Inyang
-- Team Member 2
-- Team Member 3
-- Team Member 4
+Swiri Mercy Che	
+Gloria Ndiana Inyang 	
+Oga Flourish Oluwaseyi	
+Kellen Kavosa
+Christianah Odunola Dada
+Joy Azwihangwisi Maimela
+onyinyechukwu Tenderly Oyeoka	
+Oluwafikunayomi Oguntade
+Oguntoyinbo Esther Kanyinsola	
+Namakau Nangomba
+<img width="505" height="221" alt="image" src="https://github.com/user-attachments/assets/48ac4561-f13c-4132-a3e5-1ef2cbf15c71" />
 
 ---
 
