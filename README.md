@@ -171,8 +171,6 @@ onyinyechukwu Tenderly Oyeoka
 Oluwafikunayomi Oguntade
 Oguntoyinbo Esther Kanyinsola	
 Namakau Nangomba
-<img width="505" height="221" alt="image" src="https://github.com/user-attachments/assets/48ac4561-f13c-4132-a3e5-1ef2cbf15c71" />
-
 ---
 
 ## License
