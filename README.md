@@ -162,9 +162,7 @@ This project demonstrates how data analytics and visualization can support evide
 
 **Capstone Project Team**
 
-(Add the names of all team members here.)
 
-Example:
 
 - Swiri Mercy Che	
 - Gloria Ndiana Inyang 	
